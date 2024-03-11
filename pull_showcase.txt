@@ -1,1 +1,1 @@
-TRhis is to confirm if pull did work well.
+This is to confirm if pull did work well.
